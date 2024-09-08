@@ -14,7 +14,7 @@
 
 ![YOUR GITHUB STATS](https://github-readme-stats.vercel.app/api?username=dendve8&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendve8&theme=radical)
 
 ---
 
